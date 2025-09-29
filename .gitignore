@@ -1,0 +1,12 @@
+# Specific MacOS
+.DS_Store
+
+# Exclude node_modules
+node_modules
+
+# Environmements
+.env
+
+# Exclude datas
+datas
+!datas/.gitkeep
