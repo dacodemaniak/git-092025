@@ -1,3 +1,7 @@
+:root( --darkmode: #0f0f0f;)
+
+.darkmode {background-color:var(--darkmode);}
+
 body.dark {
     background-color: #151414;
 }
