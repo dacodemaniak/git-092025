@@ -12,3 +12,5 @@ const switchMode = () => {
         body.classList.add('dark')
     }
 }
+
+// Fonction pour changer le theme au clique sur le bouton
