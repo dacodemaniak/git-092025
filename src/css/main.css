@@ -1,7 +1,11 @@
 body.dark {
-    background-color: #252424;
+    background-color: #211b1b;
 }
 
 body.light {
     background-color: #cdc6c6;
+}
+
+.lightmode {
+    background-color: #f4f3f3;
 }
