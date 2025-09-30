@@ -3,14 +3,10 @@
     --lightMode: #e8e4e4;
     }
 
-.darkMode {
+body.darkMode {
     background-color:var(--darkMode);
 }
 
-body.darkMode {
-    background-color: #151414;
-}
-
 body.lightMode {
-    background-color: #e8e4e4;
+    background-color:var(--lightMode);
 }
