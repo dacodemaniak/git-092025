@@ -1,3 +1,10 @@
+:root {
+    --darkmode: #4caf50;
+
+}
+
+
+
 body.dark {
     background-color: #211b1b;
 }
