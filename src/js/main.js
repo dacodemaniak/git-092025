@@ -1,3 +1,3 @@
 (() => {
-    console.log('Hello main')
+    document.querySelector('body').classList.add('dark')
 })()
