@@ -1,12 +1,12 @@
-:root{
+:root{ 
     --darkmode: #0f0f0f;
     --lightmode: #e8e4e4;
-}
-
+    }
+    
 body.dark {
-    background-color: #151414;
+    background-color: var(--darkmode);
 }
 
 body.light {
-    background-color:var(--lightMode);
+    background-color: var(--lightmode);
 }

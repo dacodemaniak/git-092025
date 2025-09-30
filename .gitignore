@@ -10,3 +10,5 @@ node_modules
 # Exclude datas
 datas
 !datas/.gitkeep
+
+.github
