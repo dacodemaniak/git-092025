@@ -1,9 +1,7 @@
 :root {
-    --darkmode: #4caf50;
-
+    --darkmode: #0f0f0f;
+    --lightmode: #e8e4e4;
 }
-
-
 
 body.dark {
     background-color: var(--darkmode);
@@ -11,8 +9,4 @@ body.dark {
 
 body.light {
     background-color: #cdc6c6;
-}
-
-.lightmode {
-    background-color: #f4f3f3;
 }
